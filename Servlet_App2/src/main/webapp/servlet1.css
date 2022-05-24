@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+#first{
+	background:-webkit-linear-gradient(left bottom,blue,purple);
+	color:white;
+}
+label{
+	font-size:20px;
+	font-weight:bold;
+	color:yellow;
+}
+input{
+	margin-left:20px;
+
+}
+#div1{
+	margin:auto;
+	width:60%;
+	height:400px;
+	padding:20px;
+}
+#button1{
+	margin-bottom:10px;
+	margin-top:10px;
+	background-color:cyan;
+	color:blue;
+	margin-left:180px;
+}
+#we{
+	color:yellow;
+	text-align:center;
+}
+#main1{
+	background-color:maroon;
+	height:350px;
+	width:50%;
+	margin:auto;
+}

@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+#main-div{
+	background-color:purple;
+	margin:auto;
+	width:30%;
+	height:380px;
+	box-shadow: 5px 5px 5px 5px red;
+	
+}
+#sub-div{
+	color:white;
+	margin:20px;
+	padding:10px;
+}
+#button1{
+	margin-top:20px;
+	background-color:yellow;
+}
+#h4{
+	color:orange;
+	text-align:center;
+	
+}

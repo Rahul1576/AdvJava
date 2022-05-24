@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+#main-div{
+	background-color:purple;
+	color:white;
+	margin:auto;
+	height:250px;
+	width:20%;
+	padding:10px;
+	box-shadow: 5px 5px 5px 5px blue;
+	
+	
+}
+#button1{
+	background-color:yellow;
+	margin-left:120px;
+	margin-top:15px;
+	color:red;
+}
+#l1{
+	margin-top:10px;
+	
+}
+#l2{
+	margin-top:10px;
+	
+}
+#b2{
+	margin-top:50px;
+	margin-left:20px;
+	background-color:green;
+	color:yellow;
+}
+#b3{
+	background-color:green;
+	color:yellow;
+}
+#h4{
+	color:orange;
+	text-align:center;
+}
